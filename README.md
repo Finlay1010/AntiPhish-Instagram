@@ -1,1 +1,1 @@
-# AntiPhish-Instagram
+# AntiPhish: Instagram Edition
