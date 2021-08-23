@@ -97,7 +97,7 @@ def credits():
 ██      ██ ██   ████ ███████ ██   ██    ██     ██  ██████   ██  ██████  ''')
 		
 			if credits_message == 0:
-				print("------- { Send me Bitcoin? <e> } -------")
+				print("------- { Send me Bitcoin? 1FinLayTxovShtRaPyaYc2oEdt88yVEWCz } -------")
 				credits_message += 1
 			elif credits_message == 1:
 				print("--- { Send me Ethereum? 0xFCC4EaAee8c941B0821CfC0be34d77b7a664E7C1 } ---")
