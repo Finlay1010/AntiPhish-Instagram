@@ -35,19 +35,11 @@ def check_modules():
 		time.sleep(5)
 		quit()
 
-	try:
-		import keyboard
-	except:
-		print("[ERROR] - Module 'keyboard' not installed!\nTo install, open 'Command Prompt' and type 'pip install keyboard' and wait.")
-		time.sleep(5)
-		quit()
-
 	print("Done!")
 	time.sleep(0.1)
 
 check_modules()
 import requests
-import keyboard
 
 lock = threading.Lock()
 
