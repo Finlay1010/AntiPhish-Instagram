@@ -1,7 +1,7 @@
 # AntiPhish: Instagram Edition
 This program was created to end a scam which has been going on for way too long...
 
-So, if you've been on Instagram long enough ~~and have had at least one gulible person DM you since you created you account~~, you will probably have seen a message similar to this: "This took me 3 hours to make. I hope you like it. https://scam.xyz/g/?&ure=yourusername". Clicking that link takes you to a fake Instagram login page where it prompts you to enter your account password, which will then be used to login into your account and then send the scam message to everyone you have ever messaged on Instagram.
+So, if you've been on Instagram long enough ~~and have had at least one gulible person DM you since you created your account~~, you will probably have seen a message similar to this: "This took me 3 hours to make. I hope you like it. https://scam.xyz/g/?&ure=yourusername". Clicking that link takes you to a fake Instagram login page where it prompts you to enter your account password, which will then be used to login into your account and then send the scam message to everyone you have ever messaged on Instagram.
 
 
 # What AntiPhish actually does & how to use it:
